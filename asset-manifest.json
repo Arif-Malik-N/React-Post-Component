@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Post-Component/static/css/main.febcc38e.chunk.css",
+    "main.js": "/React-Post-Component/static/js/main.55e58a76.chunk.js",
+    "main.js.map": "/React-Post-Component/static/js/main.55e58a76.chunk.js.map",
+    "runtime-main.js": "/React-Post-Component/static/js/runtime-main.64ca1a8b.js",
+    "runtime-main.js.map": "/React-Post-Component/static/js/runtime-main.64ca1a8b.js.map",
+    "static/js/2.74e5c65e.chunk.js": "/React-Post-Component/static/js/2.74e5c65e.chunk.js",
+    "static/js/2.74e5c65e.chunk.js.map": "/React-Post-Component/static/js/2.74e5c65e.chunk.js.map",
+    "static/js/3.bc47b3f5.chunk.js": "/React-Post-Component/static/js/3.bc47b3f5.chunk.js",
+    "static/js/3.bc47b3f5.chunk.js.map": "/React-Post-Component/static/js/3.bc47b3f5.chunk.js.map",
+    "index.html": "/React-Post-Component/index.html",
+    "static/css/main.febcc38e.chunk.css.map": "/React-Post-Component/static/css/main.febcc38e.chunk.css.map",
+    "static/js/2.74e5c65e.chunk.js.LICENSE.txt": "/React-Post-Component/static/js/2.74e5c65e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64ca1a8b.js",
+    "static/js/2.74e5c65e.chunk.js",
+    "static/css/main.febcc38e.chunk.css",
+    "static/js/main.55e58a76.chunk.js"
+  ]
+}
