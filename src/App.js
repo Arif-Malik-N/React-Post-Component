@@ -10,7 +10,7 @@ function App({imgUrl,name,userPic,postText}) {
           </div>
         <br/>
         <div className ="uname" >
-           <img className = "propic" src = {userPic}></img>
+           <img className = "propic" alt= "userPic" src = {userPic}></img>
         
         </div>
       <div className ="uname nm" >
@@ -21,7 +21,7 @@ function App({imgUrl,name,userPic,postText}) {
       </div>
   <div className = "postTxt">{postText}</div>
       <div>
-     <img width = "400px" height = "300px" src = {imgUrl}></img>
+     <img width = "400px" height = "300px" alt= "postimg" src = {imgUrl}></img>
       </div>
       <div className= "lines"></div>
       <div className = "likeCommShare">
